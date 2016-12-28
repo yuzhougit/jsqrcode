@@ -1,0 +1,17 @@
+{
+  "name": "jsqrcode",
+  "description": "javascript qrcode",
+  "main": "jsqrcode.js",
+  "authors": [
+    "Yu Zhou <nuaazy@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/yuzhougit/jsqrcode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

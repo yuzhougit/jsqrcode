@@ -1,0 +1,19 @@
+{
+  "name": "jsqrcode",
+  "version": "1.0.0",
+  "description": "javascript qrcode",
+  "main": "jsqrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzhougit/jsqrcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuzhougit/jsqrcode/issues"
+  },
+  "homepage": "https://github.com/yuzhougit/jsqrcode#readme"
+}
