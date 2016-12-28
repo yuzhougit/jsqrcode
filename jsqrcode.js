@@ -3127,7 +3127,7 @@
             }
         
     }
-    
+
     // databr.js
     function QRCodeDataBlockReader(blocks,  version,  numErrorCorrectionCode)
     {
@@ -3432,6 +3432,7 @@
     return {
         GridSampler: GridSampler,
         Decoder: Decoder,
+        qrcode: qrcode,
         sayHi: function(name) {
             console.log('Hi, ' + name + '!' );
         }
